@@ -1,0 +1,5 @@
+﻿  main.cpp
+\\appsdata2.fvtc.edu\userdata$\120511591\documents\visual studio 2015\projects\labexercise4\labexercise4\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\appsdata2.fvtc.edu\userdata$\120511591\documents\visual studio 2015\projects\labexercise4\labexercise4\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  LabExercise4.vcxproj -> \\appsdata2.fvtc.edu\userdata$\120511591\documents\visual studio 2015\Projects\LabExercise4\Debug\LabExercise4.exe
+  LabExercise4.vcxproj -> \\appsdata2.fvtc.edu\userdata$\120511591\documents\visual studio 2015\Projects\LabExercise4\Debug\LabExercise4.pdb (Partial PDB)
